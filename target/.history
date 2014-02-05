@@ -1,0 +1,6 @@
+build
+reload
+clean
+build
+compile
+test
